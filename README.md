@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Feyza 👋! </h1>
 <p align="center">
-  <i>A passionate developer with a background in robotics, AI, and instructional technologies.</i><br/>
+  <i>A passionate developer with a background in SAP, Web design and mobile applications.</i><br/>
   🎓 Computer Engineer graduate from <b>Beykent Univercity</b> (GPA: 3.00)
 </p>
 
